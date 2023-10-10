@@ -196,3 +196,5 @@ jekyll-archives:
 
 futrue: true
 published: true
+# google_analytics: 구글 애널리틱스 연결
+# google_analytics: pv: 구글 애널리틱스 GA 연결
