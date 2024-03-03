@@ -9,7 +9,7 @@ title: About Me
 ## 💡 Prologue
   -  백앤드 개발자를 꿈꾸는 평범한 직장인
   
-## 💡 About M e👨🏻‍💻
+## 💡 About Me👨🏻‍💻
   - Career
     - AhnLab(2022.08~)
         - 사내 웹 서비스 개발 및 운영(front/back) 
@@ -22,9 +22,11 @@ title: About Me
         - 알림톡, 배치 프로시저 관련 개발 및 유지보수
         - 자동이체, 계좌 및 CMS 유효성 체크 등 수납  관련 업무 수행
         - 서비스, 물류 모듈 관련 유지보수 업무 수행
-      - 기술 스택 
-        - Java, javascript
-  
+  - 기술 스택 
+    - 메인 언어 : Java, Python
+    - 프레임워크 : spring boot, vue.js, react.js  
+
+
 ## 💡 기타 Blog
   - tistory : [새벽 기상을 꿈꾸는 세기무민](https://sg-moomin.tistory.com/)
   - naver : [루민](https://blog.naver.com/rooney9325)
