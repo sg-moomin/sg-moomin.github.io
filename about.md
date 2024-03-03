@@ -6,10 +6,10 @@ title: About Me
 ![Github_Logo](/assets/img/post/20231009_1.jpeg)  
 
 # 💻 Sg-moomin About Me
-> ## Prologue
+## 💡 Prologue
   -  백앤드 개발자를 꿈꾸는 평범한 직장인
   
-> ## 👨🏻‍💻 About Me 👨🏻‍💻
+## 💡 About M e👨🏻‍💻
   - Career
     - AhnLab(2022.08~)
         - 사내 웹 서비스 개발 및 운영(front/back) 
@@ -25,10 +25,10 @@ title: About Me
       - 기술 스택 
         - Java, javascript
   
-> ## 기타 Blog
+## 💡 기타 Blog
   - tistory : [새벽 기상을 꿈꾸는 세기무민](https://sg-moomin.tistory.com/)
   - naver : [루민](https://blog.naver.com/rooney9325)
   - velog : [sg-moomin](https://velog.io/@sg-moomin)
 
-> ## Contact Point
-- Mail : [메일 주소 바로가기](rooney9325@gmail.com)
+## 💡 Contact Point
+- Mail : rooney9325@gmail.com
