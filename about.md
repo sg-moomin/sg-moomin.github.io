@@ -29,6 +29,7 @@ title: About Me
   - tistory : [새벽 기상을 꿈꾸는 세기무민](https://sg-moomin.tistory.com/)
   - naver : [루민](https://blog.naver.com/rooney9325)
   - velog : [sg-moomin](https://velog.io/@sg-moomin)
+  - Notion : [sg-moomin Programer](https://www.notion.so/Programer-Sg-moomin-68443a26b1d040ada31f93e8a236c813?pvs=4)
 
 ## 💡 Contact Point
 - Mail : rooney9325@gmail.com
