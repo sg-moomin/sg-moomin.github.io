@@ -344,6 +344,9 @@ a.navbar-item.is-active {
     #disqus_thread {
         margin-top: 5vmax;
     }
+    .utterances {
+        max-width: 100% !important;
+      }
 }
 
 #page-section {

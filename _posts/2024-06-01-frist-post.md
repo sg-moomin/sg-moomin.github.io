@@ -42,12 +42,4 @@ tags:
 
 ## 💡 Contact Point
 - Mail : rooney9325@gmail.com
-
----
-<script src="https://utteranc.es/client.js"
-        repo="sg-moomin/sg-moomin.github.io"
-        issue-term="pathname"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
+- test
